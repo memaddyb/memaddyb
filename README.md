@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Babhulkar</h1>
-- 🌱 I’m currently learning **Machine Learninhg**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **madhavbabhulkar88@gmail.com**
 
